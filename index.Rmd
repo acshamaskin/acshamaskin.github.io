@@ -1,0 +1,24 @@
+---
+author: "Andrew Shamaskin"
+title: "Integrating Software with Fisheries Science"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+```
+
+![](figure/AndrewShamaskin_Photo.png)
+
+## About 
+
+I am a graduate research assistant at Mississippi State University, and will finish up my MS in fisheries science by the end of this year.  My research explores new ways to evaluate harvest regulations, through the development of [computer applications](https://acshamaskin.shinyapps.io/YPR_DN/) that can better explain how human dimensions and fish population dynamics interact. 
+
+Please pardon the dust as I continue to develop this personal website in a manner that is optimally efficacious.  
+
+In the meantime, check out my CV here, and a little personal statement of mine.  
+
+
+
+
+
