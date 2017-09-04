@@ -1,6 +1,6 @@
 ---
-author: "Andrew Shamaskin"
-title: "Integrating Software with Fisheries Science"
+author: "Integrating Software And Natural Resources"
+title: "Andrew Challen Shamaskin"
 output: html_document
 ---
 
